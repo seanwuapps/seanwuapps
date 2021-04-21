@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Sean, I do code and stuff.
+🌏 [My site](https://seanwuapps.com/)
+- Built with Stencil and Contentful
+- [Source Code](https://github.com/seanwuapps/seanwuapps.com)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seanwuapps&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **seanwuapps/seanwuapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
