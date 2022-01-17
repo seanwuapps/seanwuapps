@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sean, I do code and stuff.
+My name is Sean, I drink coffee and build design systems.
 
 - 🌏 [My site](https://seanwuapps.com/)
 - 📺 [My YouTube Channel](https://www.youtube.com/channel/UCPDcvDTJvV0DBRnUatHaOgA)
